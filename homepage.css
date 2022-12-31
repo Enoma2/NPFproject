@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+
+*body {
+    margin: 0;  
+    
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table}
+
+li{
+    display:inline;
+}
+
+.fa {
+    position: relative;
+    left: 350px;
+    padding-left: 30px;
+    color: #9390a7;
+}
+.BOOK{
+    position: relative;
+    left: 400px;
+    top: -50;
+    height: 40px;
+    width: 150px;
+    padding-top: 15px;
+    text-align: center;
+    font-size: small;
+    font-weight: 600;
+    display: inline-block;
+    background-color: #ff5857;
+    color: white;
+    box-sizing: border-box;
+} 

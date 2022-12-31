@@ -1,0 +1,114 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+  }
+  
+  /* Style the header */
+  .navbar{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    padding: 7px;
+  }
+  .logo{
+    width: 55px;
+    position: relative;
+    top: 5px;
+    padding: px;
+  }
+  .navbar1{
+    color: black;
+    font-size: 20px;
+    font-weight: 600px;
+    padding-left: 15px;
+    text-decoration: none;
+  }
+  .navbar11, .navbar22, .navbar33, .navbar44{
+        border-radius: 25px;
+   }
+   .navbar11{
+    display: inline;
+    margin-right: 3px;
+    width: 160px;
+    height: 40px;
+    background-color: RGB(0 0 0);
+    text-align: center;
+    font-weight: 600;
+    padding: 10px;
+    color: rgb(255, 255, 255);
+   }
+   .navbar22{
+    display: inline;
+    margin-right: 3px;
+    width: 160px;
+    height: 40px;
+    background-color: RGB(255 169 168);
+    text-align: center;
+    font-weight: 600;
+    padding: 10px;
+  
+    
+   }
+   .navbar33{
+    display: inline;
+    margin-right: 3px;
+    width: 160px;
+    height: 40px;
+    background-color: RGB(253 255 62);
+    text-align: center;
+    font-weight: 600;
+    padding: 10px;
+   }
+   .navbar44{
+    display: inline-block;
+    margin-right: 2px;
+    width: 150px;
+    height: 40px;
+    background-color: RGB(4 182 117);
+    text-align: center;
+    font-weight: 600;
+    padding: 10px;
+    color: rgb(255, 255, 255);
+   }
+  
+   /*banner*/
+  .banner{
+    display: block;
+    background-color: black;
+    text-align: center;
+    
+  }
+  .banner1{
+    font-size: 70px;
+    font-weight: 700;
+    color: rgb(255, 255, 255);
+    padding: 30px
+  
+  }
+  .banner2{
+    font-size: 23px;
+    font-weight: 700;
+    color: rgb(255, 192, 199);
+    margin-top: -70px;
+  }
+  .bannersearch{
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid #282A35;
+    border-radius: 25px;
+    width: 400px;
+    padding-left: 25px;
+    background: white;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-right: 0;
+    border-right: 1px solid #04AA6D;
+  }
+  
+  
+  
+  
